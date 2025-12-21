@@ -225,3 +225,6 @@ while True:
        (ball.ycor() < left_paddle.ycor() + 50 and ball.ycor() > left_paddle.ycor() - 50):
         ball.setx(-340)
         ball.dx *= -1 
+    ##features ti be added: restart 
+    print("Hello World")
+    
